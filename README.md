@@ -146,5 +146,5 @@ Looking back at this three years later:
 
 ## 🤖 AI usage
 
-- **2023 submission:** the design, the decisions and the three diagrams are my own work, written without AI tools.
+- **2023 submission:** the design, the decisions and the three diagrams are my own work.
 - **2026 move to GitHub:** I used an AI assistant (Claude) to restructure the write-up into tables, fix grammar, draw the Mermaid pipeline chart, and draft the *What I'd change today* section. I reviewed every change, and the technical choices in that section are ones I can explain and defend.
