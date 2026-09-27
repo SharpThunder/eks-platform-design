@@ -8,7 +8,7 @@
 
 A platform design I wrote for a **DevOps Engineer take-home assessment** (August 2023). The brief was design only, no code: a document plus diagrams, defended later in the interview.
 
-> 📦 **Moved from GitLab.** This was originally submitted on GitLab in 2023. It lives here now; the design and diagrams are unchanged, and the write-up has been cleaned up.
+> 📦 **Moved from GitLab.** This was originally submitted on GitLab in 2023: [original repo](https://gitlab.com/SharpThunder/devops-engineer/-/tree/feat/quandoo?ref_type=heads). It lives here now; the design and diagrams are unchanged, and the write-up has been cleaned up.
 
 ---
 
