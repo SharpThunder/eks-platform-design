@@ -141,3 +141,10 @@ Looking back at this three years later:
 | VPC, EKS and DB described, not coded | **Terraform** modules + pipeline | Repeatable environments and reviewable changes |
 | DR mostly from Multi-AZ | **Velero** + cross-region Aurora snapshots, tested restores | A backup you haven't restored isn't a backup |
 | Single cluster, namespaces per env | Separate **prod** cluster | Blast radius, and upgrades tested on non-prod first |
+
+---
+
+## 🤖 AI usage
+
+- **2023 submission:** the design, the decisions and the three diagrams are my own work, written without AI tools.
+- **2026 move to GitHub:** I used an AI assistant (Claude) to restructure the write-up into tables, fix grammar, draw the Mermaid pipeline chart, and draft the *What I'd change today* section. I reviewed every change, and the technical choices in that section are ones I can explain and defend.
